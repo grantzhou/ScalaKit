@@ -1,4 +1,5 @@
 ScalaKit
 ========
 
-Display area code when dialling a number on and 
+
+Scala Development Demo Kit
